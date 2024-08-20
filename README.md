@@ -2,7 +2,7 @@
 A small concept and code I created for a server with my friends.
 
 ## How it works
-A tamed cat is struck by lightning when a thunderstorm starts and a chat message is displayed to the server when it dies. The script reads your minecraft log file and stops the server (only if you have permissions) or closes your singleplayer world when it reads this message. Then when the world/server is restarted, you will have lightning, meaning you can afk overnight and have a storm in the morning. It does NOT increase the speed storms are generated.
+A tamed cat is struck by lightning when a thunderstorm starts and a chat message is displayed to the server when it dies. The script reads your minecraft log file and stops the server (only if you have permissions) or closes your singleplayer world when it reads this message. Then when the world/server is restarted, you will have lightning, meaning you can afk overnight and have a storm in the morning. It does NOT increase the speed at which storms are generated.
 
 ## Usage
 You need:
