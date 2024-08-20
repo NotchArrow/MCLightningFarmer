@@ -15,3 +15,6 @@ You need:
 ## Config
 The program uses the default path your vanilla minecraft log file. If you are using a different launcher, you will need to configure this.
 Singleplayer is enabled by default. It can be disabled by changing the variable singleplayer to False (only works if you have server permissions)
+
+## Sorry kitty
+![image](https://github.com/user-attachments/assets/f66a8485-cafd-4865-8963-1bdc32ae8aa1)
