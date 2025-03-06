@@ -1,7 +1,7 @@
 # Hey! Read This First!
 I've worked on Minecraft Modding since I created this and it has this feature for singleplayer in a much simpler manner.
 
-The mod can be downloaded on [Modrinth](https://modrinth.com/mod/notcharrowutils) and the feature is described in the project [Wiki](https://github.com/NotchArrow/NotchArrowUtils/wiki/Commands#:~:text=/utils%20stormpause%20%2D%20Pauses%20singleplayer%20Minecraft%20when%20it%20starts%20storming%20to%20preserve%20storm%20duration.)
+The mod can be downloaded on [Modrinth](https://modrinth.com/mod/notcharrowutils) and the feature is described in the project [Wiki](https://github.com/NotchArrow/NotchArrowUtils/wiki/Commands#:~:text=Pauses%20singleplayer%20Minecraft%20when%20it%20starts%20storming%20to%20preserve%20storm%20duration.)
 
 # MCLightningFarmer
 A small concept and code I created for a server with my friends.
